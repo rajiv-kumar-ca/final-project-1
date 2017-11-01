@@ -1,0 +1,4 @@
+CallSMS.MainActivity, CallSMS;md51704a15d8527aa0b16dec03913f8c7c8.MainActivity
+CallSMS.MainActivity, CallSMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51704a15d8527aa0b16dec03913f8c7c8.MainActivity
+CallSMS.MainActivity;md51704a15d8527aa0b16dec03913f8c7c8.MainActivity
+callsms.MainActivity;md51704a15d8527aa0b16dec03913f8c7c8.MainActivity
